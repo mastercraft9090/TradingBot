@@ -1,6 +1,4 @@
 import tkinter as tk
-import logging
-from BinanceFutures import get_contracts
 
 # logger = logging.getLogger()
 # logger.debug("This message is only important when debugging the program")
