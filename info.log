@@ -1,0 +1,7 @@
+2021-05-03 12:47:16,691 INFO :: This just shows basic info 
+2021-05-03 12:47:16,691 WARNING :: This message is about something you should pay attention to 
+2021-05-03 12:47:16,691 ERROR :: This message helps debug an error that occurred in your program 
+2021-05-03 12:56:38,810 INFO :: This just shows basic info 
+2021-05-03 12:56:38,810 WARNING :: This message is about something you should pay attention to 
+2021-05-03 12:56:38,810 ERROR :: This message helps debug an error that occurred in your program 
+2021-05-03 12:56:38,810 INFO :: Hello from the Binance connector  
