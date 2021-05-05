@@ -1,6 +1,6 @@
 import tkinter as tk
 import logging
-from BinanceFutures import write_log
+
 
 logger = logging.getLogger()
 logger.debug("This message is only important when debugging the program")
@@ -22,11 +22,6 @@ file_handler.setLevel(logging.DEBUG)
 logger.addHandler(stream_handler)
 logger.addHandler((file_handler))
 
-logger.debug("This message is only important when debugging the program")
-logger.info("This just shows basic info")
-logger.warning("This message is about something you should pay attention to")
-logger.error("This message helps debug an error that occurred in your program")
-write_log()
 
 if __name__ == '__main2__':
     root = tk.Tk()
