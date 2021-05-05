@@ -22,7 +22,9 @@ file_handler.setLevel(logging.DEBUG)
 logger.addHandler(stream_handler)
 logger.addHandler((file_handler))
 
+logger.info("This here is logged in all cases.")
 
 if __name__ == '__main2__':
+    logger.info("This is logged if the main file is called.")
     root = tk.Tk()
     root.mainloop()

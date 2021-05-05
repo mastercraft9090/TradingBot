@@ -5,3 +5,5 @@
 2021-05-03 12:56:38,810 WARNING :: This message is about something you should pay attention to 
 2021-05-03 12:56:38,810 ERROR :: This message helps debug an error that occurred in your program 
 2021-05-03 12:56:38,810 INFO :: Hello from the Binance connector  
+2021-05-05 05:35:56,486 INFO :: This here is logged in all cases. 
+2021-05-05 05:36:45,623 INFO :: This here is logged in all cases. 
